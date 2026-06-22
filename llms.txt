@@ -1,0 +1,52 @@
+# Geotechnique — Avignon
+
+> Geotechnical engineering services in Avignon, France.
+
+## Services
+- [Amelioration Sols](https://avignon.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://avignon.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://avignon.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://avignon.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://avignon.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://avignon.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://avignon.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://avignon.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://avignon.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://avignon.geotechnique.vip/essais-proctor/)
+- [Excavations](https://avignon.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://avignon.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://avignon.geotechnique.vip/fondations/)
+- [Geotechnique Routiere](https://avignon.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://avignon.geotechnique.vip/granulometrie/)
+- [Injections](https://avignon.geotechnique.vip/injections/)
+- [Investigation](https://avignon.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://avignon.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://avignon.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://avignon.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://avignon.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://avignon.geotechnique.vip/liquefaction/)
+- [Masw](https://avignon.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://avignon.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://avignon.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://avignon.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://avignon.geotechnique.vip/pieux/)
+- [Puits Inspection](https://avignon.geotechnique.vip/puits-inspection/)
+- [Radiers](https://avignon.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://avignon.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://avignon.geotechnique.vip/resistivite/)
+- [Semelles](https://avignon.geotechnique.vip/semelles/)
+- [Sismique](https://avignon.geotechnique.vip/sismique/)
+- [Sondages Spt](https://avignon.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://avignon.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://avignon.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://avignon.geotechnique.vip/talus/)
+- [Triaxial](https://avignon.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://avignon.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://avignon.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://avignon.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Avignon, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
